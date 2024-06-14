@@ -1,7 +1,8 @@
 
 # NUCLEUS-OS (an arch linux distro focused on performance, kvm, and gaming)
-- for complete writeup go to our blog **[systemexploit.club](https://systemexploit.club)**
-
+- For complete writeup go to our blog **[systemexploit.club](https://systemexploit.club)**!
+- Join our **[discord](https://systemexploit.club)** community!
+- To contribute to this project or others create a ticket in the discord! (You will get credit for contributing)
 ## Project Overview
 Welcome to our project series on building a performance-oriented operating system using Arch Linux. This series is designed for reverse engineers and red teamers who want to hide hardware, develop comfortably in Linux and Windows, and maintain high performance akin to a native Windows OS. Join us as we delve into the intricacies of the Linux kernel and operating system, gaining a comprehensive understanding to perform advanced and "sneaky" tasks.
 
