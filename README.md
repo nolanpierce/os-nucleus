@@ -6,7 +6,7 @@
 ## Project Overview
 Welcome to our project series on building a performance-oriented operating system using Arch Linux. This series is designed for reverse engineers and red teamers who want to hide hardware, develop comfortably in Linux and Windows, and maintain high performance akin to a native Windows OS. Join us as we delve into the intricacies of the Linux kernel and operating system, gaining a comprehensive understanding to perform advanced and "sneaky" tasks.
 
-## What We Will Do
+## What We Will Do 
 1. **Install and Build Arch Linux on VMware** **(In Progress)**
 2. **Master Installing Arch Linux without GUI and Resolve Audio Issues on Lenovo Laptops** **(In Progress)**
 3. **Build the Linux Kernel** **(In Progress)**
@@ -28,8 +28,7 @@ This project aims to create a performance-based operating system that allows use
 
 
 ## Development Life Cycle
-
-### Phase 1: Project Setup / Tool Setup
+### Phase 1: Project Setup / Tool Setup (covered by codepules)
 1. Setup development environment, QEMU, and Docker **(Completed)**
 2. Setup multiboot2 and x86 architecture **(Completed)**
 3. Create a Makefile to compile assembly code **(Completed)**
@@ -40,8 +39,8 @@ This project aims to create a performance-based operating system that allows use
 8. Test new changes and print output **(In Progress)**
 9. If tests are successful, proceed to **Phase 2**
 
-### Phase 2: Building the Linux Kernel
-1. Learn more about the Linux kernel **(In Progress)**
+### Phase 2: Building the Linux Kernel 
+1. Learn more about the Linux kernel (covered by codepules) **(In Progress)** 
 2. Start building our custom Linux kernel **(In Progress)**
 3. Complete the kernel build **(In Progress)**
 4. Work on creating single GPU and multiple GPU passthrough for hardware compatibility **(In Progress)**
